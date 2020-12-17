@@ -1,3 +1,4 @@
+## clear console
 cat('\014')
 
 # odds within a range
